@@ -47,12 +47,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushChechi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Chechi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
 ## ✨ Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushchechi/) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ayushchechi) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-chechi/) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4AB3F4?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
